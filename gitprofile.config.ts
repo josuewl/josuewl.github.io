@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'A tecnologia não é apenas sobre o que podemos fazer, mas sobre o que podemos imaginar.',
           imageUrl:
-            'https://freeimage.host/i/JLvYsAx',
+            'https://user-content.wepik.com/projects/746834978/preview-page0.jpg?GoogleAccessId=fc-wepik-bucket-sa%40fc-wepik-pro-rev1.iam.gserviceaccount.com&Expires=1793254624&Signature=Jb5RWXZ42hD3OG%2BCAwlmIX5SDhrBn4k%2B83jLGEf5f5KKoOS9Yr5E1nNEfuD3lAen7085rCJLmlKRqhhCSXvSlnOvRV%2FvS4%2Bob8hvi3yvvjFylcC5MrzuXl8hsa0eUI6YZ4LPgvTyBuMQYSZxiGbN12GHnG%2FyzxkvDUP0L%2FQZFe8aWO2PazFw7cYpHbyxqdmz2BENW6LrQSb6mTjBCND0xYXsBtCjOgh5bKZelPBAvDRjE4mZKBXczIxMPocjw2J71DTBeeZbtYNhDlrx0SybIduYeFhX85I5TNC2Oiyf%2BlSqi7x%2Bx5eZCnn1Ha%2FXEa1sCGerq9IhnsNAH4TqECESXg%3D%3D',
           link: 'https://github.com/josuewl',
         },
         {
@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             'o impossível torna-se possível, o inimaginável torna-se realidade.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://user-content.wepik.com/projects/746829559/preview-page0.jpg?GoogleAccessId=fc-wepik-bucket-sa%40fc-wepik-pro-rev1.iam.gserviceaccount.com&Expires=1793254341&Signature=kBKo%2FS3On3BUeqAJbVbVa1ca%2FRWJidggvSzcZyfYRcjCWMfJzsyrZ%2FJUzb9%2Fhj1oZLWeLB5bumBjOXLKN%2Fob0q8qaWH%2FGz0MAfL%2FTsezQGwiH9Gpt7ffpuihfDIgPT2gGozEUuNVCNzKT4OCmJp72xtR0rvnBcluH5JHFMBBQFGrzLbSUE%2BExtyQtOkUcbAKrDWUqeWo14T28NjKX%2F6fERfanldrU%2FPvr%2B7hq8zQRcJVFV1SV1P8Ag1HbFpfDd2acfujwI7H%2B%2BLm%2BCBmcPOEGNawhalq2TwsiYc4%2FrDmnXSwGT48oXTAmXzcPsqRXeHTaajVEpRezLMJ6twXipIMIw%3D%3D',
+          link: 'https://github.com/josuewl',
         },
       ],
     },
