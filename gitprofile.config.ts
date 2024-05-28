@@ -99,7 +99,7 @@ const CONFIG = {
     {
       name: 'Desenvolvedor de Software',
       body: 'Código da credencial: CCC76A6BA135DBC524A8616B926EFCA7',
-      year: 'Dezembro 2023',
+      year: 'Janeiro 2024',
       link: 'https://web.sistemas.pucminas.br/GAD/DOC/Verificador',
     },
     {
