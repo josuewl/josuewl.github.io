@@ -105,6 +105,7 @@ const CONFIG = {
     {
       name: 'Desenvolvimento de uma Aplicação Interativa',
       body: 'Destaque Acadêmico',
+      year: 'Janeiro 2024',
       link: 'https://drive.google.com/drive/folders/1Mor5bDM0JwCk6rdy2sUUMkpD2ruFxpKR?usp=drive_link',
     },
     {
