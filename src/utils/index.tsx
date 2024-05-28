@@ -107,6 +107,10 @@ export const getSanitizedConfig = (
       googleAnalytics: {
         id: config?.googleAnalytics?.id,
       },
+      metas:
+        config?.metas?.filter(
+          (item) => item.institution || item.degree || item.from || item.to,
+        ) || [],
       hotjar: {
         id: config?.hotjar?.id,
         snippetVersion: config?.hotjar?.snippetVersion || 6,

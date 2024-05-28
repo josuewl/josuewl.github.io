@@ -90,6 +90,13 @@ export interface SanitizedEducation {
   from: string;
   to: string;
 }
+//Alteração Josué
+export interface SanitizedMetas {
+  institution?: string;
+  degree?: string;
+  from: string;
+  to: string;
+}
 
 export interface SanitizedPublication {
   title: string;
@@ -143,7 +150,8 @@ export interface SanitizedConfig {
   resume: SanitizedResume;
   skills: Array<string>;
   experiences: Array<SanitizedExperience>;
-  educations: Array<SanitizedEducation>;
+  educations: Array<SanitizedEducation>; 
+  metas: Array<SanitizedMetas>;//Alteração Josué
   certifications: Array<SanitizedCertification>;
   publications: Array<SanitizedPublication>;
   googleAnalytics: SanitizedGoogleAnalytics;

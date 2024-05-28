@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio de Josué Almeida',
     description: '',
     imageURL: '',
   },
@@ -73,8 +73,8 @@ const CONFIG = {
     'React.js',
     'Node.js',
     'ASPNET MVC',
+    'Java',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'CSS',
   ],
@@ -115,6 +115,14 @@ const CONFIG = {
       from: '2023',
       to: '2025',
     },
+  ],
+  metas: [
+    {
+      institution: 'Pós Graduação',
+      degree: 'Engenharia de Software',
+      from: 'Inicio:',
+      to: '2025',
+    }
   ],
   /*
   publications: [

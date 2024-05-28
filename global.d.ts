@@ -237,6 +237,13 @@ interface Education {
   to: string;
 }
 
+interface Metas {
+  institution?: string;
+  degree?: string;
+  from: string;
+  to: string;
+}
+
 interface Publication {
   title: string;
   conferenceName?: string;
@@ -398,6 +405,11 @@ interface Config {
    * Education list
    */
   educations?: Array<Education>;
+
+  /**
+   * Metas list
+   */
+  metas?: Array<Metas>
 
   /**
    * Publication list
