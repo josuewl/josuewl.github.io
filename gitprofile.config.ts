@@ -106,6 +106,12 @@ const CONFIG = {
       name: 'Desenvolvimento de uma Aplicação Interativa',
       body: 'Destaque Acadêmico',
       link: 'https://drive.google.com/drive/folders/1Mor5bDM0JwCk6rdy2sUUMkpD2ruFxpKR?usp=drive_link',
+    },
+    {
+      name: 'Cultura Empresarial, Ciência dos Dados e Engenharia de Software',
+      body: 'Código da credencial: c2e2b2049ca508b18150f485863288786802',
+      year: 'Setembro 2023',
+      link: 'https://icei.pucminas.br/talks/verificar_certificado/',
     }
   ],
   educations: [
